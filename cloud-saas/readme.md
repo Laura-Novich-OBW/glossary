@@ -111,6 +111,8 @@ A glossary of the terms used in the Cloud and SaaS computing world. Liat Regev a
   <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
 </dl>
 
+test
+
 ## M
 
 <dl>
