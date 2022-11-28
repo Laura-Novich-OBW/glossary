@@ -1,11 +1,14 @@
+[A](A-D.md#a) &nbsp; [B](A-D.md#b) &nbsp; [C](A-D.md#c) &nbsp; [D](A-D.md#d) &nbsp; [E](E-M.md#e) &nbsp; [F](E-M.md#f) &nbsp; [G](E-M.md#g) &nbsp; [H](E-M.md#h) &nbsp; [I](E-M.md#i) &nbsp; [J](E-M.md#j) &nbsp; [K](E-M.md#k) &nbsp; [L](E-M.md#l) &nbsp; [M](E-M.md#m) &nbsp;  N  &nbsp; [O](O-S.md#o) &nbsp; [P](O-S.md#p) &nbsp; [Q](O-S.md#q) &nbsp; [R](O-S.md#r) &nbsp; [S](O-S.md#s) &nbsp; [T](T-Z.md#t) &nbsp; [U](T-Z.md#u) &nbsp; [V](T-Z.md#v) &nbsp; [W](T-Z.md#w) &nbsp; [X](T-Z.md/#x) &nbsp; Y &nbsp;  Z 
+
 # A-D
-_**A**_
+
+## A
 <dl>
    <dt>	Attributes	</dt>
    <dd>	Extend Elements, has values.	</dd>
 </dl>
 
-_**B**_ 
+## B
 <dl>
    <dt>	Backlog	</dt>
    <dd>	Place where items that are not assigned to a sprint are held.	</dd>
@@ -15,7 +18,7 @@ _**B**_
    <dd>	The body tag contains all of the content of the page.	</dd>
 </dl>
 
-_**C**_  
+## C 
 <dl>
    <dt>	Callout	</dt>
    <dd>	A specific type of annotation that includes a line and text. Used to label parts of a graphic.	</dd>
@@ -63,7 +66,7 @@ _**C**_
    <dd>	Describes how HTML is to be displayed per single  page / entire site.	</dd>
 </dl>
 
-_**D**_  
+## D
 <dl>
    <dt>	De facto (by practice)	</dt>
    <dd>	Rules or guidelines that are random, arbitrary, "the way we have always done things," etc.	</dd>
@@ -100,3 +103,6 @@ _**D**_
    <dt>	Duplex	</dt>
    <dd>	A document that is printed on both sides (double-sided).	</dd>
 </dl>
+
+
+[A](A-D.md#a) &nbsp; [B](A-D.md#b) &nbsp; [C](A-D.md#c) &nbsp; [D](A-D.md#d) &nbsp; [E](E-M.md#e) &nbsp; [F](E-M.md#f) &nbsp; [G](E-M.md#g) &nbsp; [H](E-M.md#h) &nbsp; [I](E-M.md#i) &nbsp; [J](E-M.md#j) &nbsp; [K](E-M.md#k) &nbsp; [L](E-M.md#l) &nbsp; [M](E-M.md#m) &nbsp;  N  &nbsp; [O](O-S.md#o) &nbsp; [P](O-S.md#p) &nbsp; [Q](O-S.md#q) &nbsp; [R](O-S.md#r) &nbsp; [S](O-S.md#s) &nbsp; [T](T-Z.md#t) &nbsp; [U](T-Z.md#u) &nbsp; [V](T-Z.md#v) &nbsp; [W](T-Z.md#w) &nbsp; [X](T-Z.md/#x) &nbsp; Y &nbsp;  Z 
