@@ -9,7 +9,7 @@
   <dd>an engineered device that can be implanted or integrated into a human body to replace a natural organ, to duplicate or improve a specific function.  </dd>
 </dl>
 
-### B &nbsp;
+### B
 <dl>
   <dt>bioengineering</dt>
   <dd>the use of engineering principles and techniques in the biomedical world to develop prostheses, organs, and medical devices and instruments. Also called biomedical engineering.</dd>
