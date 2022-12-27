@@ -59,5 +59,5 @@ This glossary was created collaboratively with Our Best Words TechnComm students
   <dt>transgenic method</dt>
   <dd>A type of experimentation where DNA segments of one organism are introduced to another.</dd>
   <dt>Tissue Culture (TC) Technology</dt>
-  <dd>a technology that cultivates a plant's cell, organ and tissue growth in various media under controlled conditions.</dd>
+  <dd>Technology that cultivates a plant's cell, organ and tissue growth, in multiple mediums under controlled conditions.</dd>
 </dl>
