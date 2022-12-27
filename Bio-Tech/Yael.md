@@ -10,7 +10,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
 
 ### A
 <dl>
-  <dt>autoimmune disease</dt>
+  <dt>Autoimmune Disease</dt>
   <dd>a disease type in which the immune system can’t differentiate between its own cells and those which have invaded the body.</dd>
 </dl>
 
