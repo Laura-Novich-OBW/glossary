@@ -43,7 +43,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
 ### P
 <dl>
   <dt>Pharmacogenomics</dt>
-  <dd>a field of research that studies how people’s genes affect their response to 
+  <dd>A field of research that studies how an individual's DNA affects their response to medication.
 </dd>
 </dl>
 
