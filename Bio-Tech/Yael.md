@@ -49,7 +49,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
 
 ### R
 <dl>
-  <dt>radiomics</dt>
+  <dt>Radiomics</dt>
   <dd>a field of research that tries to extract large amounts of quantitative data from images by using data characterization algorithms.</dd>
 </dl>
 
