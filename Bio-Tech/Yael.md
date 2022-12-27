@@ -22,7 +22,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
 
 ### D
 <dl>
-  <dt>diigital health</dt>
+  <dt>Digital Health</dt>
   <dd>the concept of providing medical treatments and information using technology.</dd>
 </dl> 
 
