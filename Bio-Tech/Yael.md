@@ -16,7 +16,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
 
 ### B
 <dl>
-  <dt>benign tumor</dt>
+  <dt>Benign Tumor</dt>
   <dd>a collection of abnormal non-cancerous tissue cells that can grow uncontrollably and invade nearby tissues.</dd>
 </dl>
 
