@@ -37,7 +37,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
   <dt>Metastasis</dt>
   <dd>The process of a pathogen spreading from the initial area to a secondary area.</dd>
   <dt>Microbiology</dt>
-  <dd>the scientific study of all living organisms that are too small to be seen by a human’s eye.</dd>
+  <dd>The scientific study of living organisms that are too small to be seen by the human eye.</dd>
 </dl>
 
 ### P
