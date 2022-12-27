@@ -29,7 +29,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
 ### I
 <dl>
   <dt>Immunosuppressants</dt>
-  <dd>a type of medication that weaken the immune system, to prevent it causing harm to parts of the body that are needed, but that it may not recognize e.g. after an organ transplant.</dd>
+  <dd>A type of medication that weakens the immune system's response to foreign matter. Immunosuppressants prevent the body's immune system from attacking organs that it may not recognize as belonging to itself, such as after an organ transplant.</dd>
 </dl>
 
 ### M
