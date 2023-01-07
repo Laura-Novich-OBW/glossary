@@ -124,13 +124,6 @@ Click on the letter to go to the term:
   <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
 </dl>
 
-## I
-
-<dl>
-  <dt>Infrastructure as a Service (IaaS)</dt>
-  <dd>A service that manages storage, servers, and networking resources for businesses through virtual machines. One of three main services, the other two are SaaS and PaaS.</dd>
-</dl>
-
 ## L
 <dl>
   <dt>Load Balancing </dt>
