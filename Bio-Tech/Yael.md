@@ -50,7 +50,7 @@ This glossary was created collaboratively with Our Best Words TechnComm students
 ### R
 <dl>
   <dt>Radiomics</dt>
-  <dd>a field of research that tries to extract large amounts of quantitative data from images by using data characterization algorithms.</dd>
+  <dd>A field of research applies data mining to medical imagery. This field focuses on pulling large amounts of quantitative data from images by using data  characterization algorithms. By using data analysis and machine learning, applications can find tumors and other areas of concern faster and with better accuracy than humans.</dd>
 </dl>
 
 
