@@ -1,10 +1,13 @@
 # Glossary
 ## Biotechnology
 
-This glossary was created collaboratively with Our Best Words TechnComm students. This Biotechnology section was worked on by:
-[Yael Lachman](https://www.linkedin.com/in/yael-lachman/)
-[Rachel Goldstuck](https://www.linkedin.com/in/rachel-goldstuck/)
-[Eitan Gavson](https://www.linkedin.com/in/eitan-gavson/)
+This glossary was created collaboratively with Our Best Words TechComm students. This Biotechnology section was worked on by:
+
+- [Yael Lachman](https://www.linkedin.com/in/yael-lachman/)
+
+- [Rachel Goldstuck](https://www.linkedin.com/in/rachel-goldstuck/)
+
+- [Eitan Gavson](https://www.linkedin.com/in/eitan-gavson/)
 
 [A](#a) [B](#b) C [D](#d) E F H G [I](#i) J K L [M](#m) N O [P](#p) Q [R](#r) S [T](#t) U V W X Y Z
 
