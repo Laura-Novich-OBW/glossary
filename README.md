@@ -8,4 +8,4 @@ The following glossaries are available:
 * [Glossary of Big Data Terminology](big-data/readme.md)
 * [Glossary of Cloud/SaaS Terminology](cloud-saas/readme.md)
 * Glossary of Fin-Tech Terminology (coming **soon**!!)
-* Glossary of Bio-Tech Terminology (coming **soon**!!)
+* [Glossary of Bio-Tech Terminology] (Biotechnology/readme.md)
