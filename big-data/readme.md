@@ -1,6 +1,9 @@
 # Big Data Glossary  
-This project is a group project. The project includes a glossary of Big Data terminology. 
-Big Data is a term used to describe large amounts of data that can't be processed in the traditional way.  
+This project is a group project. The project includes a glossary of Big Data terminology.   
+  
+#### Big Data 
+Big data refers to large amounts of data that can't be processed in the traditional methods due to size, data speed, and variety of file types. 
+  
   
 Click on the letter to go to the term:  
 A B C [D](#d) E [F](#f) [G](#g) [H](#h) I J K L M N O P Q R S T U V W X Y Z
