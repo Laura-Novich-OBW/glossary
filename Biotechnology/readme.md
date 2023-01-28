@@ -7,7 +7,7 @@ This Bio-Tech section was worked on by:
 * [Rachel Goldstuck](https://www.linkedin.com/in/rachel-goldstuck/)
 * [Eitan Gavson](https://www.linkedin.com/in/eitan-gavson/)
 
-[A](#a) [B](#b) C [D](#d) [E](#e) F&nbsp; [G](#g) H&nbsp; [I](#i) J&nbsp; K&nbsp; L&nbsp; [M](#m) N&nbsp; O&nbsp; [P](#p) Q [R](#r) S&nbsp; [T](#t) U&nbsp; V&nbsp; W&nbsp; X&nbsp; Y&nbsp; Z
+[A](#a) [B](#b) C [D](#d) [E](#e) F [G](#g) H&nbsp; [I](#i) J&nbsp; K&nbsp; L&nbsp; [M](#m) N&nbsp; O&nbsp; [P](#p) Q [R](#r) S&nbsp; [T](#t) U&nbsp; V&nbsp; W&nbsp; X&nbsp; Y&nbsp; Z
 
 
 ### A
