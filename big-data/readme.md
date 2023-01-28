@@ -1,17 +1,20 @@
 # Big Data Glossary  
 This project is a group project. The project includes a glossary of Big Data terminology.   
   
-#### Big Data 
-Big data refers to large amounts of data that can't be processed in the traditional methods due to size, data speed, and variety of file types. 
-  
-  
+ 
 Click on the letter to go to the term:  
-A B C [D](#d) E [F](#f) [G](#g) [H](#h) I J K L M N O P Q R S T U V W X Y Z
+A [B](#b) C [D](#d) E [F](#f) [G](#g) [H](#h) I J K L M N O P Q R S T U V W X Y Z
   
 ## Contributors  
 [Amichai Klipstein](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Amichai-Klipstein)  
 [Natan Levitan](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Natan-Levitan)  
 [Rosalina Djedjo](https://github.com/Laura-Novich-OBW/student-showcase/tree/main/student-work/2022/Rosalina-Djedjo)   
+
+## B
+<dl>
+  <dt>Big Data</dt>
+  <dd>Big data refers to large amounts of data that can't be processed in the traditional methods due to size, data speed, and variety of file types. </dd>
+</dl>
 
 ## D
 <dl>
