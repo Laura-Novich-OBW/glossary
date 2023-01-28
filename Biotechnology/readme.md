@@ -7,7 +7,7 @@ This Bio-Tech section was worked on by:
 * [Rachel Goldstuck](https://www.linkedin.com/in/rachel-goldstuck/)
 * [Eitan Gavson](https://www.linkedin.com/in/eitan-gavson/)
 
-[A](#a) [B](#b) C [D](#d) [E](#e) F H [G](#g) [I](#i) J K L [M](#m) N O [P](#p) Q R S [T](#t) U V W X Y Z
+[A](#a) [B](#b) C [D](#d) [E](#e) F&nbsp; H&nbsp; [G](#g) [I](#i) J&nbsp; K&nbsp; &nbsp; L [M](#m) N O [P](#p) Q [R](#r) S [T](#t) U &nbsp; V&nbsp; W&nbsp; X&nbsp; Y&nbsp; Z
 
 
 ### A
@@ -79,6 +79,7 @@ This Bio-Tech section was worked on by:
 </dl>
 
 ### P
+
 <dl>
   <dt>Psychopharmacogenetics</dt>
   <dd>A field that investigates the relationships between genetics and a person’s to a psychiatric drug.</dd>
@@ -90,12 +91,14 @@ This Bio-Tech section was worked on by:
 </dl>
 
 ### R
+  
 <dl>
   <dt>Radiomics</dt>
   <dd>A field of research applies data mining to medical imagery. This field focuses on pulling large amounts of quantitative data from images by using data  characterization algorithms. By using data analysis and machine learning, applications can find tumors and other areas of concern faster and with better accuracy than humans.</dd>
 </dl>
 
 ### T
+  
 <dl>  
   <dt>Tissue Culture (TC) Technology</dt>
   <dd>Technology that cultivates a plant's cell, organ and tissue growth, in multiple mediums under controlled conditions.</dd>
