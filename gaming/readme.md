@@ -33,7 +33,7 @@ Click on the letter to go to the term:
    <dd>	A game design document, or GDD, is a dynamic and detailed planning document, usually created by video game developers or a development team. It is used in the early stages of game development as part of a pitch to, or shortly after the game is commissioned by, a publisher. The GDD guides the development team as they build the game and is generally considered a "living document" that changes as development progesses. It describes the game's concept, technical design, user interface, artwork and story elements, as well as target audience and selling points. </dd>
 
 <dt>	Game Engine	</dt>	
-   <dd> A game engine is a suite of software tools for video game developers, often provided in an integrated development environment. Tools and features vary across game engines but generally include graphics rendering, a physics engine, artifical intelligence capabilities, and sound as well as animation engines. Game engine software's pre-built framework supports faster, more efficient game development.   </dd>
+   <dd> A suite of software tools for video game developers, often provided in an integrated development environment. Tools and features vary across game engines but generally include graphics rendering, a physics engine, artifical intelligence capabilities, and sound as well as animation engines. Game engine software's pre-built framework supports faster, more efficient game development.   </dd>
 
 <dt>	Games User Research (GUR)	</dt>	
    <dd>	The study of video game players (users), their playing behaviour, and their perceptions about a game in order to optimize the player experience. Techniques include subjective methods, such as questionnaires and interviews, but more frequently focus on objective data dervied from playtesting and analytics.  	</dd>
@@ -48,21 +48,21 @@ Click on the letter to go to the term:
 ## P
 <dl>
 <dt>	Playtesting	</dt>	
-   <dd>	text  	</dd>
+   <dd>	A set of techniques and tools used to capture and analyze a player's thoughts, behavior, actions, and body language during video gameplay. Playtesting is the process of collecting feedback about a video game from players so developers can resolve any bugs or design flaws prior to the game's release.  	</dd>
 
 <dt> Prototyping </dt> 
-<dd>	text  	</dd>
+<dd>	Creating an early, stripped down version (or versions) of a video game's design to explore ideas, identify issues, and decide whether a concept is viable before committing it to development.  	</dd>
 </dl>
 
 ## S
 <dl>
 <dt>	Script	</dt>	
-   <dd>	text  	</dd>
+   <dd>	A video game script is a written story that outlines the plot, characters, scenes, dialog, and everything a player will encounter while playing the game. (Note: Game scripting also means writing code or programming).	</dd>
 
 ## U
 <dl>
 <dt>	Usability Heuristics	</dt>	
-   <dd>	text  	</dd>
+   <dd>	Usability refers to the interaction between a user and a product, and the degree to which that interaction is easy and satisfying. In gaming, usability heuristics are principles or rules of thumb used by game designers to ensure a game's user interface is intuitive, enjoyable and creates an excellent player experience.   	</dd>
 
  
 </dl>
