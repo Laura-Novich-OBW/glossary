@@ -1,12 +1,10 @@
 # Glossary for Game Development
 
-add intro
-
-
+This glossary includes a few basic terms one might encounter as a Technical Writer working in the Video Game Development space. It was created in Markdown as part of a student project at [Our Best Words](https://ourbestwords.com/). 
 
 ## Contributors
 
-add contributor info
+[Melissa Ligertwood](https://github.com/TechWriterMelissa)
 
 ## Game Development Glossary 
 
