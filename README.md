@@ -9,3 +9,5 @@ The following glossaries are available:
 * [Glossary of Cloud/SaaS Terminology](cloud-saas/readme.md)
 * Glossary of Fin-Tech Terminology (coming **soon**!!)
 * [Glossary of Bio-Tech Terminology](Biotechnology/readme.md)
+* [Glossary of Gaming Terminology](gaming/readme.md)
+  
