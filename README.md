@@ -7,7 +7,7 @@ The following glossaries are available:
 * [Glossary of Cybersecurity Terminology](cyber/readme.md)
 * [Glossary of Big Data Terminology](big-data/readme.md)
 * [Glossary of Cloud/SaaS Terminology](cloud-saas/readme.md)
-* Glossary of Fin-Tech Terminology (coming **soon**!!)
+* [Glossary of Fin-Tech Terminology](fin-tec/readme.md)
 * [Glossary of Bio-Tech Terminology](Biotechnology/readme.md)
 * [Glossary of Gaming Terminology](gaming/readme.md)
   
