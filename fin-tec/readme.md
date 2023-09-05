@@ -104,4 +104,5 @@ A digital representation of value is employed as a medium of commerce, a unit of
 ### W
 
 **WALLET**
+
 Your digital assets' virtual home. Typically, storing bitcoins involves using an application (app) or web-based platform. Public and private keys are controlled and stored by wallets.
