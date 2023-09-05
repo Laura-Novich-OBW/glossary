@@ -15,7 +15,7 @@ APPLICATION PROGRAMMING INTERFACE (API)
 A set of procedures, protocols, and tools known as an application programming interface (API) are used to create software programs that essentially enable different systems or applications to "talk" to one another. According to the demands of the user, API enables program modification and can speed up routine tasks.
 
 ### B
-**BITCOIN**
+**BITCOIN**  
 Bitcoin is the original digital asset referred to as a virtual or digital currency. It is like an online version of cash. In some instances, one can use it to buy products and services.
 BLOCKCHAIN
 A blockchain is a distributed database or ledger shared among a computer network's nodes. As a database, a blockchain stores information electronically in a digital format which requires entries to be confirmed and encrypted via an advanced encryption technique called cryptography. The innovation of a blockchain is that it guarantees the fidelity and security of a record of data and is best known for its crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions.
