@@ -9,7 +9,7 @@ Click on the letter to go to the term
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ### A
-**ALTERNATIVE FINANCE**
+**ALTERNATIVE FINANCE**  
 The term "alternative finance" refers to various financing options that are not standard (stocks, bonds, cash). Peer-to-peer lending and crowdfunding are examples of the financial products, instruments, and techniques that fall under this umbrella term created outside the conventional financial services sector.
 APPLICATION PROGRAMMING INTERFACE (API)
 A set of procedures, protocols, and tools known as an application programming interface (API) are used to create software programs that essentially enable different systems or applications to "talk" to one another. According to the demands of the user, API enables program modification and can speed up routine tasks.
